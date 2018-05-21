@@ -1,0 +1,14 @@
+{"Customer Name":"MAJ MUHAMMAD SADIQ","Bill Issue Date":"18 MAY 18","Due Date":"25 MAY 18","Amount Payable Within Due Date":"13940","Amount Payable After Due Date":"15173","Payment Date":"NA"}
+{"Customer Name":"MAJ MUHAMMAD SADIQ","Bill Issue Date":"18 MAY 18","Due Date":"25 MAY 18","Amount Payable Within Due Date":"13940","Amount Payable After Due Date":"15173","Payment Date":"NA"}
+{"Customer Name":"MAJ MUHAMMAD SADIQ","Bill Issue Date":"18 MAY 18","Due Date":"25 MAY 18","Amount Payable Within Due Date":"13940","Amount Payable After Due Date":"15173","Payment Date":"NA"}
+{"Customer Name":"MAJ MUHAMMAD SADIQ","Bill Issue Date":"18 MAY 18","Due Date":"25 MAY 18","Amount Payable Within Due Date":"13940","Amount Payable After Due Date":"15173","Payment Date":"NA"}
+{"Customer Name":"MAJ MUHAMMAD SADIQ","Bill Issue Date":"18 MAY 18","Due Date":"25 MAY 18","Amount Payable Within Due Date":"13940","Amount Payable After Due Date":"15173","Payment Date":"NA"}
+{"Customer Name":"MAJ MUHAMMAD SADIQ","Bill Issue Date":"18 MAY 18","Due Date":"25 MAY 18","Amount Payable Within Due Date":"13940","Amount Payable After Due Date":"15173","Payment Date":"NA"}
+{"Customer Name":"MAJ MUHAMMAD SADIQ","Bill Issue Date":"18 MAY 18","Due Date":"25 MAY 18","Amount Payable Within Due Date":"13940","Amount Payable After Due Date":"15173","Payment Date":"NA"}
+{"Customer Name":"MAJ MUHAMMAD SADIQ","Bill Issue Date":"18 MAY 18","Due Date":"25 MAY 18","Amount Payable Within Due Date":"13940","Amount Payable After Due Date":"15173","Payment Date":"NA"}
+{"Customer Name":"MAJ MUHAMMAD SADIQ","Bill Issue Date":"18 MAY 18","Due Date":"25 MAY 18","Amount Payable Within Due Date":"13940","Amount Payable After Due Date":"15173","Payment Date":"NA"}
+{"Customer Name":"MAJ MUHAMMAD SADIQ","Bill Issue Date":"18 MAY 18","Due Date":"25 MAY 18","Amount Payable Within Due Date":"13940","Amount Payable After Due Date":"15173","Payment Date":"NA"}
+{"Customer Name":"MAJ MUHAMMAD SADIQ","Bill Issue Date":"18 MAY 18","Due Date":"25 MAY 18","Amount Payable Within Due Date":"13940","Amount Payable After Due Date":"15173","Payment Date":"NA"}
+{"Customer Name":"MAJ MUHAMMAD SADIQ","Bill Issue Date":"18 MAY 18","Due Date":"25 MAY 18","Amount Payable Within Due Date":"13940","Amount Payable After Due Date":"15173","Payment Date":"NA"}
+{"Customer Name":"MAJ MUHAMMAD SADIQ","Bill Issue Date":"18 MAY 18","Due Date":"25 MAY 18","Amount Payable Within Due Date":"13940","Amount Payable After Due Date":"15173","Payment Date":"NA"}
+{"Customer Name":"MAJ MUHAMMAD SADIQ","Bill Issue Date":"18 MAY 18","Due Date":"25 MAY 18","Amount Payable Within Due Date":"13940","Amount Payable After Due Date":"15173","Payment Date":"NA"}
